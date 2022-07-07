@@ -1,0 +1,20 @@
+.tabela{
+   display: flex;
+   
+   } 
+.tabela th{ 
+  background-color: #2d3142; 
+  line-height: 1.4;
+  color: #fff; 
+  font-size: 18px;
+  padding: 10px;
+ 
+   } 
+   .tabela td{
+   background-color: #adacb5;
+   line-height: 1.4; 
+   color: #000; 
+   font-size: 18px;
+   padding: 10px;
+   
+   }

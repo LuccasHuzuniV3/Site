@@ -1,0 +1,41 @@
+#curio:hover{
+
+    transition: all .2s ease-in-out;
+    transform: scale(1.06);
+    transition-duration: .5s;
+    text-decoration: none;
+}
+.curiosidades {
+    font-family: 'Rockwell Extra Bold';
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    
+  }
+  #curio{
+
+    
+    padding-left: 3%;
+    padding-bottom: 1%;
+    margin: 0.5%;
+    text-decoration: none;
+    text-align: center;
+  
+    color: #000000;
+  }
+  li {
+    list-style-type: none;
+  }
+  h1{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+  .imagem{
+    text-align: center;
+  }
+  .tabela{
+    text-align: center;
+  }
+  

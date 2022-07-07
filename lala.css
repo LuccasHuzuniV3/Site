@@ -1,0 +1,50 @@
+header{
+    height: calc(25vh - 25px);
+}
+
+header nav{
+    display: flex;
+    justify-content: space-around;
+    margin: auto 30px;
+}
+
+header nav ul{
+    list-style: none;
+    display: flex;
+}
+
+header nav ul li{
+    margin: 0 15px;
+}
+
+.linkheader{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+
+.header-content{
+    max-width: 400px;
+    margin: 25px auto;
+    text-align: center;
+}
+#arti:hover{
+
+    transition: all .2s ease-in-out;
+    transform: scale(1.06);
+    transition-duration: .5s;
+}
+.art {
+    font-family: 'Rockwell Extra Bold';
+    font-style: normal;
+    text-align: center;
+  }
+  #arti{
+    padding-left: 3%;
+    padding-bottom: 1%;
+    margin: 0.5%;
+    text-align: center;
+  
+    color: #000000;
+  }
